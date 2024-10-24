@@ -1,7 +1,4 @@
-[![Travis][travis badge]][travis]
-[![Hex.pm Version][hex version badge]][hex]
-[![Hex.pm License][hex license badge]][hex]
-[![Build Tool][build tool]][hex]
+![Hut OpenRiak Status](https://github.com/OpenRiak/hut/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.2)
 
 **NOTE:** Since both Erlang and Elixir provide pluggable logging facilities out
 of the box for a while now, the benefit of using `hut` has been 
